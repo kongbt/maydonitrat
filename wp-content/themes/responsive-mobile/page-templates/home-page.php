@@ -44,7 +44,11 @@ get_header(); ?>
 						...
 					  </div>
 					</div>
-					
+					<div class="item">
+					  <img src="wp-content/uploads/2015/12/may-do.png" alt="May do an toan thuc pham soeks">
+					  <div class="carousel-caption">
+					  </div>
+					</div>					
 				  </div>
 
 				  <!-- Controls -->
@@ -60,9 +64,8 @@ get_header(); ?>
 			</div>
 		</div>
 		<div class="col-md-4" id="khuyen-mai">
-			<h3>Sản phẩm khuyến mại</h3>
-			<?php get_product_sales() ?>
-			<a href="#"><img  src="wp-content/uploads/2015/12/giao-hang-nhanh.png" alt="Giao hàng nhanh" /></a>
+			<a href="#"><img  src="wp-content/uploads/2015/12/giao-hang-nhanh.png" alt="Dang ky mua may do du luong nitrat" /></a>
+			<a href="#"><img  src="wp-content/uploads/2015/12/may-nitrat.png" alt="Giao hàng nhanh" /></a>
 		</div>	
 		<div class="col-md-12">
 			<div id="sp-moi-nhat">
