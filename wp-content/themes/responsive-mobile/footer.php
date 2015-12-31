@@ -76,6 +76,13 @@ if ( ! defined( 'WPINC' ) ) {
 <?php responsive_mobile_body_bottom(); ?>
 <?php wp_footer(); ?>
 <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=829347377076544";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <!-- Banner chạy dọc -->
 <div id="divAdRight" style="display: block; position: fixed; top: 80px;">
 <a href="#"><img width="100" src="wp-content/uploads/2015/12/anh-gif-1.gif" width="120" /></a>
@@ -143,6 +150,5 @@ if ( ! defined( 'WPINC' ) ) {
 <script>
 document.write("<script type='text/javascript' language='javascript'>MainContentW = 1050;LeftBannerW = 120;RightBannerW = 120;LeftAdjust = 5;RightAdjust = 5;TopAdjust = 100;ShowAdDiv();window.onresize=ShowAdDiv;;<\/script>");
 </script>
-
 </body>
 </html>
