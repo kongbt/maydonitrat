@@ -34,18 +34,17 @@ if ( ! defined( 'WPINC' ) ) {
 			<div id="hau-mai" class="col-md-4">
 				<h3><span style="font-size:17px" class="glyphicon glyphicon-wrench"></span> Chính sách</h3>
 				<ul>
-					<li><a href="#">Chính Sách & quy định chung</a></li>
-					<li><a href="#">Hỏi đáp về máy đo Nitrat</a></li>
-					<li><a href="#">Nitrat là gì?</a></li>
+					<li><a href="http://maydonitrat.vn/chinh-sach-quy-dinh-chung">Chính Sách & quy định chung</a></li>
+					<li><a href="http://maydonitrat.vn/hoi-dap">Hỏi đáp về máy đo Nitrat</a></li>
+					<li><a href="http://maydothucpham.com/nitrat-la-gi-tac-hai-cua-nitrat-doi-voi-suc-khoe-nguoi-tieu-dung.html">Nitrat là gì?</a></li>
 				</ul>
 			</div>
 			<div id="chung-toi" class="col-md-4">
 				<h3><span style="font-size:17px" class="glyphicon glyphicon-user"></span> Về chúng tôi</h3>
 				<ul>
-					<li><a href="#">Giới thiệu</a></li>
-					<li><a href="#">Cảnh báo hàng giả - hàng nhái - hàng kem chất lượng</a></li>
+					<li><a href="http://maydonitrat.vn/gioi-thieu">Giới thiệu</a></li>
+					<li><a href="http://maydonitrat.vn/canh-bao-hang-gia-hang-nhai">Cảnh báo hàng giả - hàng nhái - hàng kem chất lượng</a></li>
 					<li><a href="#">Tuyển dụng</a></li>
-					<li><a href="#">Hệ thông phân phối</a></li>
 				</ul>
 			</div>
 			<div id="chat-luong" class="col-md-4">
