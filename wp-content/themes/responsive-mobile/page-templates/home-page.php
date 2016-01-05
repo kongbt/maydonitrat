@@ -33,19 +33,19 @@ get_header(); ?>
 				  <!-- Wrapper for slides -->
 				  <div class="carousel-inner" role="listbox">
 					<div class="item active">
-					  <img src="wp-content/uploads/2015/12/may-soeks-1.png" alt="May do Nitrat soeks trong thuc pham">
+					  <img src="wp-content/uploads/2015/12/quang-cao-sac-pin-tet-2016.png" alt="May do Nitrat soeks trong thuc pham">
 					  <div class="carousel-caption">
 						...
 					  </div>
 					</div>
 					<div class="item">
-					  <img src="wp-content/uploads/2015/12/soeks-1.png" alt="May do Nitrat soeks Nuc 019">
+					  <img src="wp-content/uploads/2015/12/khuyenmai_tet2016.png" alt="May do Nitrat soeks Nuc 019">
 					  <div class="carousel-caption">
 						...
 					  </div>
 					</div>
 					<div class="item">
-					  <img src="wp-content/uploads/2015/12/may-do.png" alt="May do an toan thuc pham soeks">
+					  <img src="wp-content/uploads/2015/12/khuyenmai_2.png" alt="May do an toan thuc pham soeks">
 					  <div class="carousel-caption">
 					  </div>
 					</div>					
@@ -64,8 +64,8 @@ get_header(); ?>
 			</div>
 		</div>
 		<div class="col-md-4" id="khuyen-mai">
+			<a href="#"><img  src="wp-content/uploads/2015/12/may-nitrat_khuyenmai.png" alt="Giao hàng nhanh" /></a>
 			<a href="#"><img  src="wp-content/uploads/2015/12/giao-hang-nhanh.png" alt="Dang ky mua may do du luong nitrat" /></a>
-			<a href="#"><img  src="wp-content/uploads/2015/12/may-nitrat.png" alt="Giao hàng nhanh" /></a>
 		</div>	
 		<div class="col-md-12">
 			<div id="sp-moi-nhat">
